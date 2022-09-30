@@ -1,0 +1,22 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-hercules/electron_app1.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "hercules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-hercules/electron_app1/issues"
+  },
+  "homepage": "https://github.com/the-hercules/electron_app1#readme"
+}
